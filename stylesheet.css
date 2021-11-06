@@ -1,0 +1,49 @@
+       
+
+
+
+ .WELCOME
+ {
+    background-color: blue;
+    background-size: 10cm;
+    color: maroon;
+    text-align: center;
+    text-emphasis: none;
+    text-decoration-color: chartreuse;
+    font-stretch: extra-expanded;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-image: url(images.jpg);
+ }
+ .VEG
+ {
+     text-align: ;
+     color: brown;
+ }
+ .FRU
+ {
+     text-align: center;
+     color: blue;
+
+ }
+ .Mil
+ {
+     
+     text-align: ;
+ }
+ .text
+ {
+     position: relative;
+     align-self: end;
+     border-radius: 200px;
+     color: aqua;
+     text-align: center;
+ }
+.table
+{
+    width: 900px;
+}
+.th
+{
+    text-align: start;
+}
